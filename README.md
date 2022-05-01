@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Eduardq
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me edugabor20@yahoo.com
