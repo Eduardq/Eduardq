@@ -3,11 +3,9 @@
 
 <h3 align="left">About</h3>
 
-- 🔭 Fullstack developer with a focus on frontend development **Fullstack developer with a focus on frontend development**
-
-- 🌱 Passion for new technologies **Passion for new technologies**
-
-- 👨‍💻 Building awesome projects **Building awesome projects**
+- 🔭 Fullstack developer with a focus on frontend development
+- 🌱 Passion for new technologies 
+- 👨‍💻 Building awesome projects 
 
 
 
